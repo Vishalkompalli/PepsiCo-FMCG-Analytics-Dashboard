@@ -1,0 +1,31 @@
+ProductID,ProductName,Category,GlobalLaunchDate,RegionAccess
+1,Lays,Hydration,3/26/2013,North America
+3,Tropicana,Beverage,6/21/2016,China
+7,Tropicana,Beverage,11/29/2019,APAC
+2,Pepsi Zero,Beverage,6/29/2014,APAC
+6,Gatorade,Hydration,10/24/2022,Europe
+5,Gatorade,Snacks,2/8/2023,North America
+5,Pepsi Zero,Beverage,11/1/2015,North America
+3,Pepsi,Hydration,11/8/2015,India
+5,Pepsi,Hydration,12/8/2022,Europe
+1,Gatorade,Snacks,2/2/2010,India
+3,Lays,Snacks,6/17/2018,Global
+1,Tropicana,Beverage,5/7/2016,Europe
+7,Pepsi,Beverage,12/5/2020,Global
+6,Gatorade,Beverage,9/7/2010,India
+3,Mountain Dew,Hydration,4/30/2016,China
+1,Doritos,Hydration,1/20/2018,China
+3,Mountain Dew,Hydration,11/25/2018,Europe
+6,Lays,Hydration,3/30/2016,China
+5,Lays,Snacks,10/30/2013,Europe
+3,Gatorade,Hydration,4/19/2023,China
+1,Tropicana,Snacks,9/2/2021,Europe
+5,Mountain Dew,Beverage,10/20/2022,India
+1,Doritos,Hydration,1/3/2012,North America
+6,Gatorade,Beverage,8/17/2019,China
+4,Tropicana,Beverage,3/20/2013,India
+1,Pepsi,Hydration,3/6/2014,APAC
+3,Tropicana,Hydration,10/19/2023,APAC
+7,Pepsi Zero,Beverage,10/9/2023,APAC
+7,Gatorade,Beverage,8/21/2022,Global
+1,Pepsi,Beverage,2/15/2014,Global

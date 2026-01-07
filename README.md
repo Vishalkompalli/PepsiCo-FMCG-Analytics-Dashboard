@@ -91,5 +91,5 @@ Review this before modifying or extending the dashboard.
 ## How to Use
 
 1. Clone the repository  
-   'bash
+
    git clone https://github.com/Vishalkompalli/PepsiCo-FMCG-Analytics-Dashboard.git

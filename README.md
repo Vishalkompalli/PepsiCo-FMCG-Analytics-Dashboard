@@ -3,6 +3,8 @@
 This repository contains the solution for the *PepsiCo FMCG Analytics Dashboard* – a business intelligence project built to deliver unified insights into sales performance, profitability, and product distribution across regions and categories for PepsiCo.
 
 The dashboard solves the core challenge of fragmented visibility in commercial performance by consolidating structured data, enabling stakeholders to explore key performance indicators (KPIs), trends, and region-level comparisons.
+<img width="1250" height="696" alt="pepsico_1" src="https://github.com/user-attachments/assets/2b9cf4c0-dd00-406e-8161-f0db3fac91f3" />
+<img width="1243" height="691" alt="pepsico_2" src="https://github.com/user-attachments/assets/01014d64-ff85-4913-93d3-25764727059a" />
 
 ## Table of Contents
 

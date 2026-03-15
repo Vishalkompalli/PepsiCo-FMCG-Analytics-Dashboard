@@ -44,6 +44,7 @@ Fast-moving consumer goods (FMCG) companies like PepsiCo operate across multiple
 | 'Wireframes/' | UX sketches and planned layout designs |
 | 'PepsiCo Datasets/' | Source datasets used for analytics |
 | '.gitattributes' | Git attributes configuration |
+| 'PepsiCo.ipynb' | Jupyter Notebook file for cleaning and Transforming the Dim and Fact Datasets using Pandas|
 
 ## Getting Started
 
@@ -63,7 +64,6 @@ Place your data files inside the 'PepsiCo Datasets' folder. Typical tables expec
 - Profitability measures by channel
 - Region hierarchy and mapping
 
-> Ensure column names and types align with the existing Power BI model or update the model accordingly.
 
 ## Dashboard
 
